@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249726430105",
+    "project_id": "buoi25-4ab19",
+    "storage_bucket": "buoi25-4ab19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249726430105:android:106a56a5ace07671e70108",
+        "android_client_info": {
+          "package_name": "com.example.buoi25"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249726430105-h9fnagofl3d1g7134gfh66gvfp0ghf38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy9uMVrfKZUaY7bdByz4b8cRbncBTkcgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249726430105-h9fnagofl3d1g7134gfh66gvfp0ghf38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
